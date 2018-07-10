@@ -1,0 +1,5 @@
+paste
+
+https://dns.google.com/query?name=google.com&type=AAAA&dnssec=true&ecs=180.110.213.251
+
+
